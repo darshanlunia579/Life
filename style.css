@@ -1,0 +1,22 @@
+.life {
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+    margin-left: 50px;
+    color: #126e82;
+
+    height: 90px;
+
+}
+
+.motto {
+    font-family: 'Dancing Script', cursive;
+    font-size: 2rem;
+    color: #132c33;
+    margin-bottom: rem;
+    margin-left: 150px;
+
+}
+
+body {
+    background-color: #d8e3e7;
+}
